@@ -1,1 +1,4 @@
 .DS_Store
+
+# Node
+/03-frontend/node_modules
