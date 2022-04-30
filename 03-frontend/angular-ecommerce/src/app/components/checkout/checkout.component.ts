@@ -30,7 +30,7 @@ export class CheckoutComponent implements OnInit {
 
   shippingAddressStates: State[] = [];
   billingAddressStates: State[] = [];
-  
+    
   storage: Storage = sessionStorage;
 
   constructor(private formBuilder: FormBuilder,
